@@ -1361,18 +1361,18 @@ var app = (function () {
     			input = element("input");
     			t4 = space();
     			attr_dev(td0, "class", "svelte-1twxzh9");
-    			add_location(td0, file$1, 66, 16, 1386);
+    			add_location(td0, file$1, 66, 16, 1312);
     			attr_dev(td1, "class", "svelte-1twxzh9");
-    			add_location(td1, file$1, 67, 16, 1421);
+    			add_location(td1, file$1, 67, 16, 1347);
     			attr_dev(input, "type", "checkbox");
     			attr_dev(input, "name", "completed");
     			attr_dev(input, "id", "completed");
     			input.checked = input_checked_value = /*todo*/ ctx[10].completed;
     			attr_dev(input, "class", "svelte-1twxzh9");
-    			add_location(input, file$1, 68, 20, 1463);
+    			add_location(input, file$1, 68, 20, 1389);
     			attr_dev(td2, "class", "svelte-1twxzh9");
-    			add_location(td2, file$1, 68, 16, 1459);
-    			add_location(tr, file$1, 65, 12, 1365);
+    			add_location(td2, file$1, 68, 16, 1385);
+    			add_location(tr, file$1, 65, 12, 1291);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, tr, anchor);
@@ -1547,19 +1547,19 @@ var app = (function () {
     			t10 = space();
     			if (if_block) if_block.c();
     			if_block_anchor = empty();
-    			add_location(th0, file$1, 59, 8, 1249);
-    			add_location(th1, file$1, 60, 8, 1269);
-    			add_location(th2, file$1, 61, 8, 1292);
-    			add_location(tr, file$1, 58, 4, 1236);
-    			add_location(table, file$1, 57, 0, 1224);
+    			add_location(th0, file$1, 59, 8, 1175);
+    			add_location(th1, file$1, 60, 8, 1195);
+    			add_location(th2, file$1, 61, 8, 1218);
+    			add_location(tr, file$1, 58, 4, 1162);
+    			add_location(table, file$1, 57, 0, 1150);
     			attr_dev(input0, "type", "text");
-    			add_location(input0, file$1, 75, 4, 1684);
+    			add_location(input0, file$1, 75, 4, 1610);
     			attr_dev(input1, "type", "checkbox");
-    			add_location(input1, file$1, 76, 4, 1729);
-    			add_location(br, file$1, 76, 53, 1778);
+    			add_location(input1, file$1, 76, 4, 1655);
+    			add_location(br, file$1, 76, 53, 1704);
     			button.disabled = button_disabled_value = /*title*/ ctx[1] == '';
-    			add_location(button, file$1, 77, 4, 1787);
-    			add_location(form, file$1, 74, 0, 1633);
+    			add_location(button, file$1, 77, 4, 1713);
+    			add_location(form, file$1, 74, 0, 1559);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -1698,27 +1698,27 @@ var app = (function () {
     	let todos = [
     		{
     			"id": 1,
-    			"title": "delectus aut autem",
+    			"title": "Vakko Gömlek",
     			"completed": false
     		},
     		{
     			"id": 2,
-    			"title": "quis ut nam facilis et officia qui",
+    			"title": "Adidas Ayakkabı",
     			"completed": false
     		},
     		{
     			"id": 3,
-    			"title": "fugiat veniam minus",
+    			"title": "Bit Pazarı Pantolon",
     			"completed": false
     		},
     		{
     			"id": 4,
-    			"title": "et porro tempora",
+    			"title": "Ali baba Kazak",
     			"completed": true
     		},
     		{
     			"id": 5,
-    			"title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    			"title": "Deridünyası Mont",
     			"completed": false
     		}
     	];

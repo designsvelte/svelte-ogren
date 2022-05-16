@@ -11,27 +11,27 @@
     let todos = [
             {
                 "id": 1,
-                "title": "delectus aut autem",
+                "title": "Vakko Gömlek",
                 "completed": false
             },
             {
                 "id": 2,
-                "title": "quis ut nam facilis et officia qui",
+                "title": "Adidas Ayakkabı",
                 "completed": false
             },
             {
                 "id": 3,
-                "title": "fugiat veniam minus",
+                "title": "Bit Pazarı Pantolon",
                 "completed": false
             },
             {
                 "id": 4,
-                "title": "et porro tempora",
+                "title": "Ali baba Kazak",
                 "completed": true
             },
             {
                 "id": 5,
-                "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+                "title": "Deridünyası Mont",
                 "completed": false
             }
     ];
