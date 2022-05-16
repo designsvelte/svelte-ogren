@@ -15,7 +15,7 @@
 		<div style="height: 80px;">
 			<MouseKonum />
 		</div>
-		<input type="text" bind:value={color} placeholder="İnglizce renk girin 'red' gibi">
+		<input type="text" bind:value={color} placeholder="İnglizce renk girin 'orange' gibi">
 		<SayiArttir renk={color}/>
 	</main>
 	
